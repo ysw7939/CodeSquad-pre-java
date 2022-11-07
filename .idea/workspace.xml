@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2644b098-8fb5-4a7c-a0c0-c9c8d25ce8fe" name="Condition1" comment="프리코스 2일차">
-      <change afterPath="$PROJECT_DIR$/src/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gugu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/ArithmeticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/BeenCafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/CafeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/FunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/MyDateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/PeopleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/StarCafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pre_java2/UserInfoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,62 +48,94 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Owner",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="애플리케이션.Plus_1000">
-    <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Add" />
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.MyDateTest">
+    <configuration name="MyDateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pre_java2.MyDateTest" />
       <module name="CodeSquad-pre-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pre_java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gugu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gugu" />
+    <configuration name="pre_java2.ArithmeticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pre_java2.ArithmeticTest" />
       <module name="CodeSquad-pre-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pre_java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Plus" />
+    <configuration name="pre_java2.CafeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pre_java2.CafeTest" />
       <module name="CodeSquad-pre-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pre_java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Star" />
+    <configuration name="pre_java2.PeopleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pre_java2.PeopleTest" />
       <module name="CodeSquad-pre-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pre_java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="알람_시계" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알람_시계" />
+    <configuration name="pre_java2.UserInfoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pre_java2.UserInfoTest" />
       <module name="CodeSquad-pre-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pre_java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Plus_1000" />
-        <item itemvalue="애플리케이션.Gugu" />
-        <item itemvalue="애플리케이션.Add" />
-        <item itemvalue="애플리케이션.Star" />
-        <item itemvalue="애플리케이션.알람_시계" />
+        <item itemvalue="애플리케이션.MyDateTest" />
+        <item itemvalue="애플리케이션.pre_java2.CafeTest" />
+        <item itemvalue="애플리케이션.pre_java2.PeopleTest" />
+        <item itemvalue="애플리케이션.pre_java2.ArithmeticTest" />
+        <item itemvalue="애플리케이션.pre_java2.UserInfoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +148,10 @@
       <option name="presentableId" value="Default" />
       <updated>1667198625444</updated>
       <workItem from="1667198627290" duration="13796000" />
-      <workItem from="1667389006696" duration="5428000" />
+      <workItem from="1667389006696" duration="5454000" />
+      <workItem from="1667454327270" duration="10291000" />
+      <workItem from="1667547464041" duration="2408000" />
+      <workItem from="1667800083325" duration="1999000" />
     </task>
     <task id="LOCAL-00001" summary="프리코스 1일차">
       <created>1667211829079</created>
@@ -114,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667211829079</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="프리코스 2일차">
+      <created>1667394483706</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667394483706</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,5 +188,16 @@
     <MESSAGE value="프리코스 1일차" />
     <MESSAGE value="프리코스 2일차" />
     <option name="LAST_COMMIT_MESSAGE" value="프리코스 2일차" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pre_java2/BeenCafe.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
